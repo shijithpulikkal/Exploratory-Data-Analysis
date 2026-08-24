@@ -291,8 +291,8 @@ Feel free to:
 
 **Shijith Pulikkal**
 
-GitHub: https://github.com/shijithpulikkal
-Linkedin: https://www.linkedin.com/in/shijithpulikkal
+- GitHub: https://github.com/shijithpulikkal
+- LinkedIn: https://www.linkedin.com/in/shijithpulikkal
 
 ---
 
